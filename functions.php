@@ -5,7 +5,7 @@ function UmaFuncao(){
 
 }
 
-funtion outraFuncao ($nome){
+function outraFuncao ($nome){
 echo "ola,{$nome}! ".PHP_EOL;
 
 }
